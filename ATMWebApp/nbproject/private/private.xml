@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/ATMOperationsServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/withdraw_failure_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/quit_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/DepositServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/view_balance.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/transaction_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/withdraw_success_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/model/User.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/recipient_transfer_failure_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/index.html</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/invalid.html</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/recipient_not_found_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/model/Transaction.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/WithdrawServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/deposit_success_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/menu.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/recipient_transfer_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/deposit_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/recipient_transfer_success_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/model/Bank.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/transfer_page.jsp</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/TransferServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/AuthUserServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/src/java/atm/servlets/RecipientTransferServlet.java</file>
+            <file>file:/C:/Users/hlomp/OneDrive/Documents/NetBeansProjects/ATMWebApp/web/withdraw_page.jsp</file>
+        </group>
+    </open-files>
+</project-private>
