@@ -62,3 +62,9 @@ The application was originally developed as a console-based Java program and lat
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hlompho-Khoali/ATM-Interface-.git
+
+2. Open the project in NetBeans IDE
+3. Deploy the project on GlassFish/Payara server.
+4. Use the predefined users to log in:
+   User 1 → User ID: 1234, PIN: 1111
+   User 2 → User ID: 5678, PIN: 2222
